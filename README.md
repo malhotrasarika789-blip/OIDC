@@ -2,6 +2,9 @@
 
 This project is a basic implementation of an OpenID Connect (OIDC) Provider using Node.js and Express. It demonstrates authentication flow, token generation, and basic OIDC endpoints.
 
+<img width="1920" height="1020" alt="Screenshot 2026-04-23 195202" src="https://github.com/user-attachments/assets/45dc8d6e-a193-4d8b-9bca-736d15630bfd" />
+
+
  Features
  OpenID Connect authentication flow
  JWT Token generation
