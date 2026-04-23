@@ -1,4 +1,4 @@
- Custom OIDC Provider (Node.js)
+Custom OIDC Provider (Node.js)
 
 This project is a basic implementation of an OpenID Connect (OIDC) Provider using Node.js and Express. It demonstrates authentication flow, token generation, and basic OIDC endpoints.
 
